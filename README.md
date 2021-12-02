@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onadebi
 - 👀 I’m interested in C#/ASP.NET,NodeJs/Express/NestJs
-- 🌱 I’m currently learning all NodeJs web related
+- 🌱 I’m currently learning all things I can NodeJs web related
 - 💞️ I’m looking to collaborate on web projects that are service/products based.
 - 📫 How to reach me:: hello{at}onadebi.com
 
