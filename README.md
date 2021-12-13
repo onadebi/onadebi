@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onadebi
-- 👀 I’m interested in C#/ASP.NET,NodeJs/Express/NestJs
+- 👀 I’m interested in C#/ASP.NET,NodeJs/Express with Typescript
 - 🌱 I’m constantly improving myself/learning all things I can on NodeJs, Typescript and C# web related stuffs
 - 💞️ I’m looking to collaborate on web projects that are service/products or just fun :-) based.
 - 📫 How to reach me:: hello{at}onadebi.com
