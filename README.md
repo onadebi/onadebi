@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onadebi
-- 👀 I’m interested in C#/ASP.NET,NodeJs/Express with Typescript
-- 🌱 I’m constantly improving myself/learning all things I can on NodeJs, Typescript and C# web related stuffs
-- 💞️ I’m looking to collaborate on web projects that are service/products or just fun :-) based.
+- 👀 I’m interested in NodeJs/Express with Typescript, NestJs and C#/ASP.NET 
+- 🌱 I’m constantly improving myself/learning all things I can on NodeJs, Typescript and C# web related stack
+- 💞️ I’m enjoy to work on web projects that are service/products or just fun :-) based.
 - 📫 How to reach me:: hello{at}onadebi.com
 
 <!---
