@@ -3,7 +3,7 @@
 - 🌱 I’m constantly improving myself on NodeJs,Typescript, React and C#
 - 💞️ I enjoy learning new things/skills and working on web projects that are service/products based, following best practices.
 - 📫 How to reach me:: hello{at}onasonic.com
-- 📫 Playground and code testings at:: <a href="https://www.onasonic.com" target="_blank">onasonic.com</a>
+- 📫 Playground and code testings at:: <a href="https://www.onadebi.com" target="_blank">onadebi.com</a>
 
 <!---
 onadebi/onadebi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
