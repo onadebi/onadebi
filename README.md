@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @onadebi
+- Hi 👋, I'm onadebi
+- 👀 I’m a fullstack developer: C#, NodeJs/Express, ReactJs with Typescript.
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-- 👀 I’m a fullstack developer, interested in NodeJs/Express,Typescript,ReactJs and C#
-- 🌱 I’m constantly improving myself on NodeJs,Typescript, React and C#
-- 💞️ I enjoy learning new things/skills and working on web projects that are service/products based, following best practices.
-- 📫 How to reach me:: hello{at}onasonic.com
-- 📫 Playground and code testings at:: <a href="https://www.onadebi.com" target="_blank">onadebi.com</a>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=onadebi&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onadebi&layout=compact" />
+</div>
 
 <!---
 onadebi/onadebi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
