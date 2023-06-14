@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @onadebi
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👀 I’m a fullstack developer, interested in NodeJs/Express,Typescript,ReactJs and C#
 - 🌱 I’m constantly improving myself on NodeJs,Typescript, React and C#
 - 💞️ I enjoy learning new things/skills and working on web projects that are service/products based, following best practices.
