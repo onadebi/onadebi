@@ -1,5 +1,6 @@
 - Hi 👋, I'm onadebi
 - 👀 I’m a fullstack developer: C#, NodeJs/Express, ReactJs with Typescript.
+- You can find me occasionally experimenting on my playground at <a href="https://onadebi.com" target="_blank">onadebi.com</a>
 ---
 
 <div>
