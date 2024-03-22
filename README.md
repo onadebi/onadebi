@@ -1,6 +1,6 @@
 - Hi 👋, I'm onadebi
 - 👀 I’m a fullstack developer: C#/ASP.NET, Python/Flask, NodeJs/Express, ReactJs with Typescript, Java.
-- You can find me occasionally experimenting on my playground at <a href="https://onaxsys.com" target="_blank">onaxsys.com</a>
+<!--- <You can find me occasionally experimenting on my playground at <a href="https://onaxsys.com" target="_blank">onaxsys.com</a> --->
 ---
 
 <div>
