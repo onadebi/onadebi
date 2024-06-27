@@ -1,5 +1,5 @@
 - Hi 👋, I'm onadebi
-- 👀 I’m a fullstack developer: C#/ASP.NET, NodeJs/Express and JavaScript/TypeScript.
+- 👀 I’m a fullstack developer: C#/ASP.NET, Python/Django, TypeScript/React, Java.
 <!--- <You can find me occasionally experimenting on my playground at <a href="https://onaxsys.com" target="_blank">onaxsys.com</a> --->
 ---
 
