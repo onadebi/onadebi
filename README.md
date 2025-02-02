@@ -1,8 +1,8 @@
 - Hi 👋, I'm onadebi
 - 👀 I’m a fullstack developer: C#/ASP.NET, NodeJS/Express, TypeScript/React.
 
-Currently working on <a href="https://courserunway.com" target="_blank">CourseRunway.com</a><br/>
-Occasionally experimenting on my playground at <a href="https://onaxsys.com" target="_blank">onaxsys.com</a> 
+Working on multiple projects. <!--<a href="https://courserunway.com" target="_blank">CourseRunway.com</a><br/>
+Occasionally experimenting on my playground at <a href="https://onaxsys.com" target="_blank">onaxsys.com</a> -->
 
 ---
 
