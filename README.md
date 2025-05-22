@@ -6,7 +6,7 @@ Occasionally experimenting on my playground at <a href="https://onaxsys.com" tar
 
 ---
 
-<div>
+<div style="width:100%; margin:auto; ">
   <!--
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=onadebi&count_private=true&include_all_commits=true" />
   -->
