@@ -1,4 +1,4 @@
-I'm _**Onaefe**_ <sup>`Onadebi`</sup>, a _**Fullstack Software Engineer**_ 💻: C#/ASP.NET, NodeJS/Express, TypeScript/React.
+I'm _**Onaefe**_ <sup>`Onadebi`</sup>, a _**QA Engineer**_ 💻: C#/ASP.NET, NodeJS/Express, TypeScript/React.
 
 _Working on an AuctionCity and multiple projects 🚧_ <!--<a href="https://courserunway.com" target="_blank">CourseRunway.com</a><br/>
 Occasionally experimenting on my playground at <a href="https://onaxsys.com" target="_blank">onaxsys.com</a> -->
