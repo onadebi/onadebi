@@ -1,4 +1,4 @@
-I'm _**Onaefe**_ <sup>`Onadebi`</sup>, a polyglot _**QA Engineer**_ 💻: Java/Selenium,NodeJS/Playwright, C#/ASP.NET,  TypeScript/React.
+I'm _**Onaefe**_ <sup>`Onadebi`</sup>, a polyglot _**Software/QA Engineer**_ 💻: Java/Selenium,NodeJS/Playwright, C#/ASP.NET,  TypeScript/React.
 
 _Working on an AuctionCity and multiple projects 🚧_ <!--<a href="https://courserunway.com" target="_blank">CourseRunway.com</a><br/>
 Occasionally experimenting on my playground at <a href="https://onaxsys.com" target="_blank">onaxsys.com</a> -->
