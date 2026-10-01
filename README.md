@@ -1,9 +1,9 @@
-I'm _**Onaefe**_ <sup>`(Onadebi)`</sup>, a polyglot _**Software Engineer**_ 💻
+I'm _**Onaefe**_ <sup>`(Onadebi)`</sup>, human🚶🏽‍➡️and polyglot _**Software Engineer**_ 💻
 
 <!--_Working on an AuctionCity and multiple projects 🚧_ <a href="https://courserunway.com" target="_blank">CourseRunway.com</a><br/>
 Occasionally experimenting on my playground at <a href="https://onaxsys.com" target="_blank">onaxsys.com</a> -->
 ---
-<div style="display: flex; flex-direction: column; gap:8;">
+<div style="width: 100%; display: flex; background-color:#ececec ; justify-content:space-between; gap: 8px;">
   <a href="https://www.credly.com/badges/ad587d60-af3e-432e-bf2d-125d003a3b27" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="120" alt="KCNA Badge">
   </a>
