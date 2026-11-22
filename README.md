@@ -1,4 +1,4 @@
-I'm _**Onaefe Edebi**_ <sup>`(Onadebi)`</sup>, human🚶🏽‍➡️and polyglot _**Software Engineer**_ 💻
+I'm _**Onaefe**_ <sup>`(Onadebi)`</sup>, human🚶🏽‍➡️and polyglot _**Software Engineer**_ 💻
 
 <!--_Working on an AuctionCity and multiple projects 🚧_ <a href="https://courserunway.com" target="_blank">CourseRunway.com</a><br/>
 Occasionally experimenting on my playground at <a href="https://onaxsys.com" target="_blank">onaxsys.com</a> -->
